@@ -97,7 +97,7 @@ Students will incorporate semantic structure tags to improve the organization, a
 
 ---
 
-### **Assessment Criteria**:
+### **Grading Criteria**:
 
 1. **Correct Use of Semantic Tags**:
 
