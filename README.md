@@ -1,4 +1,4 @@
-### **Lesson 3: Semantic Structure Tags - Classwork Assignment**
+### **Lesson 2: Semantic Structure Tags - Classwork Assignment**
 
 #### **Objective:**
 
