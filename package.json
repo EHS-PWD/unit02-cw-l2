@@ -1,0 +1,13 @@
+{
+  "name": "unit02-semantic-structure",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest",
+    "lint": "htmlhint student-code/index.html"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "jsdom": "^22.0.0",
+    "htmlhint": "^1.1.4"
+  }
+}
